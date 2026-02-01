@@ -7,5 +7,14 @@
     <img src="https://skillicons.dev/icons?i=go,ts,docker,bots,git,js,py,nuxtjs,vue,pinia,postgres,redis,figma" />
   </a>
 </p>
-<p align="center">Currently working on: Live Messenger</p>
+
+</br>
+
+<h1 align="center">
+   Activity Graph
+</h1>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=maltira&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+
+</br>
+
+<p align="center">Currently working on: Live Messenger</p>
