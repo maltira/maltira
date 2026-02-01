@@ -1,11 +1,11 @@
-<div id="header" align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXBmeTJodWJhd3Zsenpla2ExcTN6b3k2NTQ0Ym43YWZ3eml4MnJtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ao9DUiTKH60XS/giphy.gif" width="100"/>
-  <div id="badges">
-    <a href="https://t.me/enemybye">
-      <img src="https://icon666.com/r/_thumb/cxy/cxyzka2if3cr_64.png" width="24px" height="24px" alt="Telegram"/>
-    </a>
-    <a href="https://discordapp.com/users/344484015992078336">
-      <img src="https://icon666.com/f/_thumb/r0c/r0c201w0ygdc_64.png" width="24px" height="24px" alt="Discord"/>
-    </a>
-  </div>
-</div>
+<h1 align="center">
+   What's up! I'm <a href="https://t.me/enemybye" target="_blank">Andrey</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+</h1>
+<h4 align="center">Full-stack developer from Russia</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,ts,docker,bots,git,js,py,nuxtjs,vue,pinia,postgres,redis,figma" />
+  </a>
+</p>
+<p align="center">Currently working on: Live Messenger</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=maltira&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
