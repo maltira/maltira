@@ -8,7 +8,14 @@
   </a>
 </p>
 
-</br>
+<a>
+    <a href="#">
+        <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=maltira&show_icons=true&count_private=true&theme=cobalt" height="192px" width="49.5%"/>
+    </a>   
+    <a href="#">
+        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=maltira&langs_count=6&layout=compact&theme=cobalt" height="192px" width="48.5%"/>
+    </a>   
+</a>
 
 <h1 align="center">
    Activity Graph
