@@ -4,7 +4,7 @@
 <h4 align="center">Full-stack developer from Russia</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,ts,docker,bots,git,js,py,nuxtjs,vue,pinia,postgres,redis,figma" />
+    <img src="https://skillicons.dev/icons?i=go,ts,docker,bots,git,js,py,react,nuxtjs,vue,pinia,postgres,redis,figma" />
   </a>
 </p>
 
