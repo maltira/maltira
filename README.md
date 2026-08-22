@@ -23,5 +23,3 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=maltira&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
 
 </br>
-
-<p align="center">Currently working on: Live Messenger</p>
