@@ -17,9 +17,9 @@
     </a>   
 </a>
 
-<h1 align="center">
+<!-- <h1 align="center">
    Activity Graph
 </h1>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=maltira&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
 
-</br>
+</br> -->
