@@ -37,17 +37,4 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maltira&theme=nord_dark" width="49%"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=maltira&theme=nord&hide_border=true&disable_animations=true" width="70%"/>
-</p>
-
-<!-- snake: needs .github/workflows/snake.yml, see snake.yml next to this file -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maltira/maltira/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maltira/maltira/output/github-contribution-grid-snake.svg">
-    <img alt="contribution grid snake animation" src="https://raw.githubusercontent.com/maltira/maltira/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=90&section=footer" width="100%" alt=""/>
