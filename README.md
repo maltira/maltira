@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,ts,docker,git,js,py,react,nuxtjs,vue,pinia,postgres,redis,kafka,figma" />
+    <img src="https://skillicons.dev/icons?i=go,ts,py,docker,react,vue,postgres,redis,kafka,figma" />
   </a>
 </p>
 
